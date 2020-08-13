@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc11.emp_department_ix ON hr_poc11.employees(department_id);

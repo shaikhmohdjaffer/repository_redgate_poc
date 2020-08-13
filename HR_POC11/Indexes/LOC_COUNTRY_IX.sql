@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc11.loc_country_ix ON hr_poc11.locations(country_id);

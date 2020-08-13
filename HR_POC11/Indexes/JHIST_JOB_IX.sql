@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc11.jhist_job_ix ON hr_poc11.job_history(job_id);
