@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc111.loc_state_province_ix ON hr_poc111.locations(state_province);

@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc111.emp_job_ix ON hr_poc111.employees(job_id);
