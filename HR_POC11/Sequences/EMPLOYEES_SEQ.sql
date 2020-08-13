@@ -1,0 +1,1 @@
+CREATE SEQUENCE hr_poc11.employees_seq NOCACHE;
