@@ -1,1 +1,0 @@
-CREATE INDEX hr_poc1.loc_city_ix ON hr_poc1.locations(city);
