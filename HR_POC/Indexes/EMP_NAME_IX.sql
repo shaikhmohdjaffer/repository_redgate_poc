@@ -1,0 +1,1 @@
+CREATE INDEX hr_poc.emp_name_ix ON hr_poc.employees(last_name,first_name);

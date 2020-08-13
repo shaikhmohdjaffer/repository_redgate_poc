@@ -1,0 +1,6 @@
+CREATE OR REPLACE TRIGGER hr_poc."SECURE_EMPLOYEES" 
+  BEFORE INSERT OR UPDATE OR DELETE ON hr_poc.employees
+DISABLE BEGIN
+  secure_dml;
+END secure_employees;
+/
